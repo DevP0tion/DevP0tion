@@ -10,7 +10,7 @@
 - [2025-06-20](https://devp0tion.github.io/DevP0tion/ToB/TOB_1일차) - 프로젝트 오리엔테이션
 
 ## 1주차
-- [2025-06-23](https://devp0tion.github.io/DevP0tion/ToB/Throne_of_Bone_2일차) - 조작 방식 설계 및 이동/공격 UX 기획  
+- [2025-06-23](https://devp0tion.github.io/DevP0tion/ToB/TOB_2일차) - 조작 방식 설계 및 이동/공격 UX 기획  
 
 ---
 
