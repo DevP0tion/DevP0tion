@@ -11,6 +11,8 @@
 
 ## 1주차
 - [2025-06-23](https://devp0tion.github.io/DevP0tion/ToB/TOB_2일차) - 조작 방식 설계 및 이동/공격 UX 기획  
+- [2025-06-24](https://devp0tion.github.io/DevP0tion/ToB/TOB_3일차) - 프로젝트 기초 구현
+- [2025-06-25](https://devp0tion.github.io/DevP0tion/ToB/TOB_4일차) - 프로젝트 기초 구현
 
 ---
 
