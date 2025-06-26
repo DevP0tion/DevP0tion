@@ -14,6 +14,7 @@
 - [2025-06-24](https://devp0tion.github.io/DevP0tion/ToB/TOB_3일차) - 3 일차 / 프로젝트 기초 구현
 - [2025-06-25](https://devp0tion.github.io/DevP0tion/ToB/TOB_4일차) - 4 일차 / 프로젝트 기초 구현
 - [2025-06-26](https://devp0tion.github.io/DevP0tion/ToB/TOB_5일차) - 5 일차 / 프로젝트 기초 구현
+- [2025-06-26](https://devp0tion.github.io/DevP0tion/ToB/TOB_5일차) - 6 일차 / 1주차 정리 및 플레이테스트, 개발 현황 종합
 
 ---
 
