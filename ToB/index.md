@@ -4,17 +4,28 @@
 
 ---
 
-## 🗂️ 2025년 6월
-
 ## 0주차
-- [2025-06-20](https://devp0tion.github.io/DevP0tion/ToB/TOB_1일차) - 1 일차 / 프로젝트 오리엔테이션
+
+- [2025-06-20](https://devp0tion.github.io/DevP0tion/ToB/TOB_1일차) - 1 일차 (금) / 프로젝트 오리엔테이션
+
+---
 
 ## 1주차
-- [2025-06-23](https://devp0tion.github.io/DevP0tion/ToB/TOB_2일차) - 2 일차 / 조작 방식 설계 및 이동/공격 UX 기획  
-- [2025-06-24](https://devp0tion.github.io/DevP0tion/ToB/TOB_3일차) - 3 일차 / 프로젝트 기초 구현
-- [2025-06-25](https://devp0tion.github.io/DevP0tion/ToB/TOB_4일차) - 4 일차 / 프로젝트 기초 구현
-- [2025-06-26](https://devp0tion.github.io/DevP0tion/ToB/TOB_5일차) - 5 일차 / 프로젝트 기초 구현
-- [2025-06-26](https://devp0tion.github.io/DevP0tion/ToB/TOB_5일차) - 6 일차 / 1주차 정리 및 플레이테스트, 개발 현황 종합
+
+- [2025-06-23](https://devp0tion.github.io/DevP0tion/ToB/TOB_2일차) - 2 일차 (월) / 조작 방식 설계 및 이동/공격 UX 기획  
+- [2025-06-24](https://devp0tion.github.io/DevP0tion/ToB/TOB_3일차) - 3 일차 (화) / 프로젝트 기초 구현
+- [2025-06-25](https://devp0tion.github.io/DevP0tion/ToB/TOB_4일차) - 4 일차 (수) / 프로젝트 기초 구현
+- [2025-06-26](https://devp0tion.github.io/DevP0tion/ToB/TOB_5일차) - 5 일차 (목) / 프로젝트 기초 구현
+- [2025-06-27](https://devp0tion.github.io/DevP0tion/ToB/TOB_5일차) - 6 일차 (금) / 1주차 정리 및 플레이테스트, 개발 현황 종합
+
+> 1주차 주간 리포트
+> 
+
+---
+## 2주차
+
+- [2025-06-30](https://devp0tion.github.io/DevP0tion/ToB/TOB_7일차) - 7 일차 (월) /  
+
 
 ---
 
