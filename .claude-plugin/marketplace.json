@@ -22,7 +22,7 @@
     },
     {
       "name": "team-report",
-      "description": "Runs a team of AI analysts on your project and turns their findings into an interactive HTML report. You accept, defer, or reject each suggestion, and future reports learn from your choices.",
+      "description": "Turns any request — 'review the architecture', 'analyze the color theme' — into a responsive, interactive HTML report built by a team of AI experts sized to the task. You accept, defer, or reject each suggestion, and future reports learn from your choices.",
       "category": "workflow",
       "author": {
         "name": "DevP0tion",
