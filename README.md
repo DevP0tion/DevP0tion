@@ -1,6 +1,6 @@
-# devp0tion — Claude Code 플러그인 마켓플레이스
+# 플러그인 마켓플레이스
 
-[DevP0tion](https://github.com/DevP0tion)이 배포하는 Claude Code 플러그인을 한곳에 모은 마켓플레이스입니다.
+AI 사용하면서 개인적으로 필요하다 싶은 기능들을 만들어봤어요.
 
 ## 설치
 
@@ -17,4 +17,3 @@
 | `team-report` | Accept/Defer/Reject 결정 카드와 피드백 루프를 갖춘 인터랙티브 HTML 리포트를 생성하는 멀티 에이전트 팀 분석. |
 | `nunchi` | 작업 강도 캘리브레이션("적당히") passive skill. 프로젝트별 surprise 기록을 세션 시작마다 재주입해 재귀 개선. Bun 필요. |
 
-각 플러그인의 소스는 개별 저장소에 있으며, 통합 관리를 위해 [`plugins/`](plugins/) 아래에 git submodule로 미러링되어 있습니다. 설치는 항상 원본 저장소에서 직접 받아오므로 submodule을 초기화할 필요가 없습니다.
