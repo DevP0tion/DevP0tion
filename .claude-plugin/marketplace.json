@@ -1,0 +1,37 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "devp0tion",
+  "owner": {
+    "name": "DevP0tion",
+    "email": "1k0j2i4@gmail.com"
+  },
+  "description": "DevP0tion's integrated Claude Code plugin marketplace.",
+  "plugins": [
+    {
+      "name": "xlmcp",
+      "description": "Excel automation MCP server (49 tools). Session pooling, virtual clipboard, chunked parallel I/O. Windows only.",
+      "category": "productivity",
+      "author": {
+        "name": "DevP0tion"
+      },
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/DevP0tion/XLMCP.git",
+        "path": "plugins/xlmcp"
+      }
+    },
+    {
+      "name": "team-report",
+      "description": "Multi-agent team analysis producing an interactive paginated HTML report with Accept/Defer/Reject decision cards and a feedback loop.",
+      "category": "workflow",
+      "author": {
+        "name": "DevP0tion",
+        "email": "1k0j2i4@gmail.com"
+      },
+      "source": {
+        "source": "github",
+        "repo": "DevP0tion/team-report"
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+[submodule "plugins/XLMCP"]
+	path = plugins/XLMCP
+	url = https://github.com/DevP0tion/XLMCP.git
+[submodule "plugins/team-report"]
+	path = plugins/team-report
+	url = https://github.com/DevP0tion/team-report.git
