@@ -4,3 +4,6 @@
 [submodule "plugins/team-report"]
 	path = plugins/team-report
 	url = https://github.com/DevP0tion/team-report.git
+[submodule "plugins/Nunchi"]
+	path = plugins/Nunchi
+	url = https://github.com/DevP0tion/Nunchi.git

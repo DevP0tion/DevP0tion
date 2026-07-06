@@ -32,6 +32,18 @@
         "source": "github",
         "repo": "DevP0tion/team-report"
       }
+    },
+    {
+      "name": "nunchi",
+      "description": "Work-intensity calibration ('just enough') passive skill. Records prediction-vs-reality surprises per project and re-injects them at session start for recursive improvement. Requires Bun.",
+      "category": "workflow",
+      "author": {
+        "name": "DevP0tion"
+      },
+      "source": {
+        "source": "github",
+        "repo": "DevP0tion/Nunchi"
+      }
     }
   ]
 }
