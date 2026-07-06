@@ -44,6 +44,19 @@
         "source": "github",
         "repo": "DevP0tion/Nunchi"
       }
+    },
+    {
+      "name": "nunchi-codex",
+      "description": "nunchi for OpenAI Codex CLI (ChatGPT). Same plugin, built from the codex-support branch with the .codex-plugin manifest. After install, trust its hooks via /hooks. Requires Bun.",
+      "category": "workflow",
+      "author": {
+        "name": "DevP0tion"
+      },
+      "source": {
+        "source": "github",
+        "repo": "DevP0tion/Nunchi",
+        "ref": "codex-support"
+      }
     }
   ]
 }
