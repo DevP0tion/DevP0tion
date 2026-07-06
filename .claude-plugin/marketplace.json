@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "xlmcp",
-      "description": "Excel automation MCP server (49 tools). Session pooling, virtual clipboard, chunked parallel I/O. Windows only.",
+      "description": "Lets Claude read, edit, and automate Excel spreadsheets for you — from filling in data to building reports. Handles large files fast. Windows only.",
       "category": "productivity",
       "author": {
         "name": "DevP0tion"
@@ -22,7 +22,7 @@
     },
     {
       "name": "team-report",
-      "description": "Multi-agent team analysis producing an interactive paginated HTML report with Accept/Defer/Reject decision cards and a feedback loop.",
+      "description": "Runs a team of AI analysts on your project and turns their findings into an interactive HTML report. You accept, defer, or reject each suggestion, and future reports learn from your choices.",
       "category": "workflow",
       "author": {
         "name": "DevP0tion",
@@ -35,7 +35,7 @@
     },
     {
       "name": "nunchi",
-      "description": "Work-intensity calibration ('just enough') passive skill. Records prediction-vs-reality surprises per project and re-injects them at session start for recursive improvement. Requires Bun.",
+      "description": "Teaches Claude how much effort is 'just enough' for each project. It remembers what was overkill or went wrong, and applies those lessons automatically in every new session. Requires Bun.",
       "category": "workflow",
       "author": {
         "name": "DevP0tion"
