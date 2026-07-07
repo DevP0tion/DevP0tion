@@ -57,6 +57,34 @@
         "url": "https://github.com/DevP0tion/Nunchi.git",
         "ref": "codex-support"
       }
+    },
+    {
+      "name": "xlmcp-codex",
+      "description": "xlmcp for OpenAI Codex CLI (ChatGPT). Same Excel automation MCP server, built from the codex-support branch with the .codex-plugin manifest. Windows only. Requires Bun.",
+      "category": "productivity",
+      "author": {
+        "name": "DevP0tion"
+      },
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/DevP0tion/XLMCP.git",
+        "path": "plugins/xlmcp",
+        "ref": "codex-support"
+      }
+    },
+    {
+      "name": "team-report-codex",
+      "description": "team-report for OpenAI Codex CLI (ChatGPT). Same skill, built from the codex-support branch with the .codex-plugin manifest.",
+      "category": "workflow",
+      "author": {
+        "name": "DevP0tion",
+        "email": "1k0j2i4@gmail.com"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/DevP0tion/team-report.git",
+        "ref": "codex-support"
+      }
     }
   ]
 }
