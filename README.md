@@ -13,11 +13,11 @@ AI 사용하면서 개인적으로 필요하다 싶은 기능들을 만들어봤
 
 ### Codex CLI (ChatGPT)
 
-Codex는 Claude Code 호환 플러그인 체계를 쓰므로 명령이 같습니다. 현재 Codex 지원 플러그인은 `nunchi-codex`입니다.
+Codex는 Claude Code 마켓플레이스 형식(`.claude-plugin/marketplace.json`)을 호환 지원하므로 이 마켓을 그대로 쓸 수 있습니다. 단, 명령은 대화 안이 아니라 터미널에서 실행합니다. 현재 Codex 지원 플러그인은 `nunchi-codex`입니다.
 
-```
-/plugin marketplace add DevP0tion/DevP0tion
-/plugin install nunchi-codex@devp0tion
+```sh
+codex plugin marketplace add DevP0tion/DevP0tion
+codex plugin add nunchi-codex@devp0tion
 ```
 
 설치 후 `/hooks`에서 nunchi의 hook을 검토하고 신뢰(trust)해야 동작합니다 — Codex는 플러그인에 번들된 hook을 자동으로 신뢰하지 않습니다.
