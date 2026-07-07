@@ -29,8 +29,8 @@
         "email": "1k0j2i4@gmail.com"
       },
       "source": {
-        "source": "github",
-        "repo": "DevP0tion/team-report"
+        "source": "url",
+        "url": "https://github.com/DevP0tion/team-report.git"
       }
     },
     {
@@ -41,8 +41,8 @@
         "name": "DevP0tion"
       },
       "source": {
-        "source": "github",
-        "repo": "DevP0tion/Nunchi"
+        "source": "url",
+        "url": "https://github.com/DevP0tion/Nunchi.git"
       }
     },
     {
@@ -53,8 +53,8 @@
         "name": "DevP0tion"
       },
       "source": {
-        "source": "github",
-        "repo": "DevP0tion/Nunchi",
+        "source": "url",
+        "url": "https://github.com/DevP0tion/Nunchi.git",
         "ref": "codex-support"
       }
     }
