@@ -24,10 +24,17 @@ codex plugin add nunchi-codex@devp0tion
 
 ## 플러그인
 
+### Claude Code
+
 | 플러그인 | 설명 |
 |--------|------|
 | `xlmcp` | Claude가 Excel 파일을 직접 읽고 고치고 자동화합니다 — 데이터 입력부터 보고서 작성까지. 대용량 파일도 빠르게 처리합니다. Windows 전용. |
 | `team-report` | "아키텍처 리뷰", "컬러 테마 분석" 같은 요청을 받아, 요구사항에 맞게 구성된 AI 전문가 팀이 반응형 HTML 보고서로 작성합니다. 제안마다 수락/보류/거절을 고르면 다음 보고서가 그 선택을 학습합니다. |
 | `nunchi` | 프로젝트마다 "적당히"가 어느 정도인지 Claude에게 가르칩니다. 과했던 것과 부족했던 것을 기억해 다음 세션부터 자동 반영합니다. Bun 필요. |
-| `nunchi-codex` | `nunchi`의 Codex CLI(ChatGPT)용 빌드. 같은 프로젝트를 Claude Code와 Codex로 번갈아 작업해도 학습이 하나로 쌓입니다. Bun 필요. |
+
+### Codex CLI (ChatGPT)
+
+| 플러그인 | 설명 |
+|--------|------|
+| `nunchi-codex` | `nunchi`의 Codex용 빌드. 같은 프로젝트를 Claude Code와 Codex로 번갈아 작업해도 학습이 하나로 쌓입니다. Bun 필요. |
 
