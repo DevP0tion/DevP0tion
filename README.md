@@ -40,3 +40,10 @@ codex plugin add <플러그인명>-codex@devp0tion
 | `team-report-codex` | `team-report`의 Codex용 빌드. 동일한 보고서 생성 스킬입니다. |
 | `nunchi-codex` | `nunchi`의 Codex용 빌드. 같은 프로젝트를 Claude Code와 Codex로 번갈아 작업해도 학습이 하나로 쌓입니다. Bun 필요. |
 
+## VS Code 확장
+
+Claude Code 플러그인이 아니라 VS Code에 설치하는 확장입니다. `/plugin install`로는 설치되지 않으니, Releases에서 `.vsix` 파일을 받아 VS Code 확장 보기 → `⋯` → **VSIX에서 설치…**로 설치하세요.
+
+| 확장 | 설명 |
+|------|------|
+| [Claude Designer](https://github.com/DevP0tion/Claude-Designer) | HTML 시안이나 실행 중인 웹앱 화면을 VS Code 안에서 보면서, 고칠 곳을 클릭하거나 화면에 그려 Claude에게 바로 지시합니다. 글자·크기·색은 화면에서 직접 고칠 수도 있습니다. Claude Code VS Code 확장 필요. [내려받기](https://github.com/DevP0tion/Claude-Designer/releases/latest) |
